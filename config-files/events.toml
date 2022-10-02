@@ -1,0 +1,227 @@
+name = "events"
+
+[[eventData]]
+key = "2022-st-patricks"
+title = "St. Patrick's Day Concerts with Irish Dancers"
+description = ["Get in the St. Patrick's day spirit with Irish music and dancing from the amazing Tara Academy!"]
+
+[[eventData.performances]]
+date = "3/12/2022"
+time = "7:30pm"
+venue = "Thumnail Theatre"
+callToAction = "Join Us!"
+ticketLink = "https://ticketpeak.co/tntt/events/6094-Magical%20Strings/20648"
+location = "Snohomish, WA"
+googleMaps = "https://g.page/thumbnail-theater-snohomish?share"
+ticketInfo = "Purchase Tickets Online"
+soldout = false
+fair = false
+
+[[eventData.performances]]
+date = "3/18/2022"
+time = "7:30pm"
+venue = "Nichols Community Center"
+callToAction = "Join Us!"
+ticketLink = "https://foxislandficra.org/2022/02/22/magical-strings/"
+location = "Fox Island, WA"
+googleMaps = "https://g.page/ficra?share"
+ticketInfo = "Purchase Tickets Online"
+soldout = false
+fair = false
+
+[[eventData.performances]]
+date = "3/19/2022"
+time = "7:30pm"
+venue = "Kenyon Hall"
+callToAction = "Join Us!"
+ticketLink = "http://kenyonhall.org/"
+location = "Seattle, WA"
+googleMaps = "https://goo.gl/maps/dy5C9qRm71AsnDq99"
+ticketInfo = "Email venue to request seats!"
+soldout = false
+fair = false
+
+[[eventData]]
+key = "artist-sunday-2021"
+title = "Artist Sunday"
+description = ["Support local artists and creative businesses on Artists Sunday, November 28th, from noon to 6 pm, and give the gift of art this holiday season! The Historically Hip Artisan Market Pop-Up Shop in the Issaquah Depot Museum features rotating artists from around the country with special musical performances, including seasonal Magical Strings Celtic music at 5 pm.", "Artists Sunday is a national movement to encourage consumers to shop with local artists and craftspeople during the holiday season. Artists Sunday takes place the Sunday after Thanksgiving. It's like Black Friday or Small Business Saturday, but for the arts."]
+
+[[eventData.performances]]
+date = "11/28/2021"
+time = "5:00pm"
+venue = "Issaquah Depot Museum"
+callToAction = "Join Us!"
+ticketLink = "https://downtownissaquah.com/"
+location = "Issaquah, WA"
+googleMaps = "https://goo.gl/maps/uLXUDykHyhXq2b9e6"
+ticketInfo = ""
+soldout = false
+fair = true
+
+[[eventData]]
+key = "yuletide2021"
+title = "43rd Annual Celtic Yuletide"
+description = ["Celtic Yuletide is returning to the live stage, bringing generations together for a joyful celebration as the Boulding family and special guests weave their magic with lively and soulful music, storytelling and stellar Irish step-dancing. Philip and Pam’s Celtic harps, dulcimers, concertina, accordion and more are accompanied by their grown children on violin, cello, whistles, harmonium and harp. Grandson Haydn brings down the house with his dancing, percussion and sidekick act to his father’s juggling. We’re pleased that fiddler and piper Vienna Scheyer will join the band for the first time, along with our favorite Dublin guitarist/singer Colm McCarthaigh. Dynamic percussionist Matt Jerrell and the award-winning Tara Academy of Irish Dance return again this year adding their brilliance in rhythm and dance.  Become part of the Yuletide family for this 43rd annual gala to experience joy and warmth in the dark of winter."]
+
+[[eventData.performances]]
+date = "12/5/2021"
+time = "3:00pm"
+venue = "Kent-Meridian Performing Arts Center"
+callToAction = "Buy Tickets"
+ticketLink = "https://www.kentwa.gov/residents/parks-recreation-and-community-services/arts/spotlight-series-2021-2022"
+location = "Kent, WA"
+googleMaps = "https://goo.gl/maps/yM929bW6NAXNCKL56"
+ticketInfo = ""
+soldout = false
+
+[[eventData.performances]]
+date = "12/12/2021"
+time = "3:00pm"
+venue = "The Historic Lincoln Theatre"
+callToAction = "Buy Tickets"
+ticketLink = "https://lincolntheatre.org/"
+location = "Mount Vernon, WA"
+googleMaps = "https://g.page/LincolnTheatreMVWA?share"
+ticketInfo = ""
+soldout = false
+
+[[eventData.performances]]
+date = "12/15/2021"
+time = "7:30pm"
+venue = "Alberta Rose Theatre"
+callToAction = "Buy Tickets"
+ticketLink = "https://albertarosetheatre.com/"
+location = "Portland, OR"
+googleMaps = "https://goo.gl/maps/sQE4Sb3T6pr5w9My7"
+ticketInfo = ""
+soldout = false
+
+[[eventData.performances]]
+date = "12/17/2021"
+time = "7:00pm"
+venue = "Snowy Owl Theater – Icicle Creek Center for the Arts"
+callToAction = "Buy Tickets"
+ticketLink = "https://icicle.secure.force.com/ticket/#/events/a0S36000004xG9LEAU"
+location = "Leavenworth, WA"
+googleMaps = "https://goo.gl/maps/5M716JswStcqypqaA"
+ticketInfo = "Both in-person and virtual tickets"
+soldout = false
+
+[[eventData.performances]]
+date = "12/18/2021"
+time = "2:00pm"
+venue = "Snowy Owl Theater – Icicle Creek Center for the Arts"
+callToAction = "Buy Tickets"
+ticketLink = "https://icicle.secure.force.com/ticket/#/events/a0S36000004xG9LEAU"
+location = "Leavenworth, WA"
+googleMaps = "https://goo.gl/maps/5M716JswStcqypqaA"
+ticketInfo = "Both in-person and virtual tickets"
+soldout = false
+
+# ===============================
+
+[[eventData]]
+key = "threeRivers"
+title = "Three Rivers Virtual Holiday Homebound Concert"
+description = [
+  "Featuring Curtis and Loretta Heidi Muller and Bob Webb Magical Strings and Watch the Sky.",
+]
+
+[[eventData.performances]]
+date = "12/5/2020"
+time = "6:00pm PST"
+venue = "Vimeo"
+callToAction = "Stream Online"
+ticketLink = "https =//vimeo.com/479388039"
+location = "Online Stream"
+googleMaps = ""
+ticketInfo = "Donations appreciated for viewing this concert."
+soldout = false
+
+# ===============================
+
+[[eventData]]
+key = "yuletide2020"
+title = "42nd Annual Celtic Yuletide Celebration"
+description = [
+  "For many in the Northwest it wouldn’t be the holidays without the harps dulcimers and energetic Celtic sounds of acclaimed family ensemble Magical Strings. The tradition continues this year as Magical Strings announces its 42nd year of annual Celtic Yuletide Concerts taking place virtually throughout Puget Sound in December 2020! The Boulding Family’s musical celebration of the holiday season is a treasured tradition – one that will continue despite the limitations of the global pandemic. While we can’t come together in person with each other and the Boulding family this year please join us online to celebrate the season. As always Pam and Philip Boulding will be joined by their children grandchildren and select guests for an afternoon of enchanting Yuletide music. The Boulding’s perform on Celtic harps hammered dulcimers strings and percussion while grandchildren from the Tara Academy add Irish step dancing for a festive and memorable performance. This year we are all experiencing dramatic changes to cherished traditions and that certainly includes the Celtic Yuletide Concerts with 42 years of performing together as a family all over the Northwest.Thank you for supporting Magical Strings purchasing tickets and joining us for this unusual virtual celebration. We wish you a peaceful and heart-warming holiday and Christmas season. May this concert help to bring us closer together even though we all must stay safe and physically isolated from one another. Together we can continue to kindle the light of Yuletide!",
+]
+
+[[eventData.performances]]
+date = "12/6/2020"
+time = "3:00pm"
+venue = "Kent Spotlight Series (Online)"
+callToAction = "Buy Tickets"
+ticketLink = "https =//www.kentwa.gov/residents/parks-recreation-and-community-services/arts/spotlight-series-2019-2020"
+location = "Kent"
+googleMaps = ""
+ticketInfo = "Not available after 12/6."
+soldout = false
+
+[[eventData.performances]]
+date = "12/13/2020"
+time = "3:00pm"
+venue = "Lincoln Theatre (Online)"
+callToAction = "Buy Tickets"
+ticketLink = "https =//lincolntheatre.org/film/magical-strings-celtic-yuletide-virtual-concert"
+location = "Mt. Vernon"
+googleMaps = ""
+ticketInfo = "Ticket sales support Magical Strings and the venue."
+soldout = false
+
+[[eventData.performances]]
+date = "12/16/2020"
+time = "7:00pm"
+venue = "Alberta Rose Theatre (Online)"
+callToAction = "Buy Tickets"
+ticketLink = "https =//albertarosetheatre.com/events/magical-strings-presents-celtic-yuletide-on-the-portland-music-stream/"
+location = "Portland"
+googleMaps = ""
+ticketInfo = "Ticket sales support Magical Strings and the venue."
+soldout = false
+
+# ===============================
+
+[[eventData]]
+key = "harpcamp2021"
+title = "Virtual Magic Hill Summer Harp Camp"
+performancesTitle = "Classes"
+description = [
+  "We are happy to present our ‘Second Annual’ Virtual Harp Camp from Magic Hill, which will consist of several zoom sessions over a three-day period, Friday-Sunday.  Students who register will be able to attend all sessions.  At least a basic working knowledge of the harp and technique is advised, but anyone can participate.  There will be time for instruction, questions and practice.  The repertoire will span the range from one of Philip’s innovative arrangements from the valiha tradition of Madagascar, Malagasy Greeting; and a beautiful Jamaican lullaby from Philip’s childhood, to traditional dance tunes with emphasis on arranging and accompaniment playing, and another beautiful ancient air from the Bunting Collection of Ireland, among other things.  There will be one ‘warm-up’ zoom session in which students can get comfortable with the format, during which Philip will give an introduction and over-view of the weekend.",
+  "We are planning to hold a ‘Virtual Fire Circle’ on Saturday evening as per Harp Camp tradition- be prepared to play and/or sing along with some of the tunes; and maybe even take a ‘virtual walk’ around Magic Hill!  You’ll also hear some music, songs and stories from Magical Strings and guests.",
+  "All music and materials will be emailed to registrants in advance.  Site-reading skills are not essential, but would be helpful.  Don’t worry if you can’t digest all the material given – it will be taught in ‘bite-size’ pieces, and everyone will receive something of value.  The most important thing is to have fun!",
+  "There are a limited number of spaces available – so the sooner you sign up, the better to secure your place in the Virtual Magic Hill Summer Harp Camp!"
+]
+
+[[eventData.performances]]
+date = "8/20/2021"
+time = "3pm - 8pm"
+venue = "Virtual Magic Hill Summer Harp Camp"
+callToAction = "Attend Online"
+ticketLink = "/#/classes"
+location = "Day 1"
+googleMaps = ""
+ticketInfo = "$195 for all 3 days. Contact us for details."
+soldout = false
+
+[[eventData.performances]]
+date = "8/21/2021"
+time = "9am - 8pm"
+venue = "Virtual Magic Hill Summer Harp Camp"
+callToAction = "Attend Online"
+ticketLink = "/#/classes"
+location = "Day 2"
+googleMaps = ""
+ticketInfo = "$195 for all 3 days. Contact us for details."
+soldout = false
+
+[[eventData.performances]]
+date = "8/22/2021"
+time = "10 - 11:30am"
+venue = "Virtual Magic Hill Summer Harp Camp"
+callToAction = "Attend Online"
+ticketLink = "/#/classes"
+location = "Day 3"
+googleMaps = ""
+ticketInfo = "$195 for all 3 days. Contact us for details."
+soldout = false

@@ -1,0 +1,71 @@
+name = "classes"
+
+[generalClassInfo]
+name = "Virtual Magic Hill Summer Harp Camp"
+term = "2021"
+start = "August 20"
+end = "August 22"
+where = "Virtually on Zoom"
+duration = "3 days"
+fee = "$195"
+description =[
+  "We are happy to present our ‘Second Annual’ Virtual Harp Camp from Magic Hill, which will consist of several zoom sessions over a three-day period, Friday-Sunday.  Students who register will be able to attend all sessions.  At least a basic working knowledge of the harp and technique is advised, but anyone can participate.  There will be time for instruction, questions and practice.  The repertoire will span the range from one of Philip’s innovative arrangements from the valiha tradition of Madagascar, Malagasy Greeting; and a beautiful Jamaican lullaby from Philip’s childhood, to traditional dance tunes with emphasis on arranging and accompaniment playing, and another beautiful ancient air from the Bunting Collection of Ireland, among other things.  There will be one ‘warm-up’ zoom session in which students can get comfortable with the format, during which Philip will give an introduction and over-view of the weekend.",
+  "We are planning to hold a ‘Virtual Fire Circle’ on Saturday evening as per Harp Camp tradition- be prepared to play and/or sing along with some of the tunes; and maybe even take a ‘virtual walk’ around Magic Hill!  You’ll also hear some music, songs and stories from Magical Strings and guests.",
+  "All music and materials will be emailed to registrants in advance.  Site-reading skills are not essential, but would be helpful.  Don’t worry if you can’t digest all the material given – it will be taught in ‘bite-size’ pieces, and everyone will receive something of value.  The most important thing is to have fun!",
+  "Please contact us if you would like to reserve a place. We will send you more details with a schedule and payment instructions.",
+  "There are a limited number of spaces available. Sign up soon to secure your place in the Virtual Magic Hill Summer Harp Camp!"
+]
+
+# ===============================
+
+# [[session]]
+# order = 1
+# name = "Intermediate"
+# when = "Tuesdays, 5:00pm - 6:00pm"
+# description = "For students who have either been through my beginner course (and know the first two Welsh tunes), or anyone with a working knowledge of the harp, and knows how to play a few pieces (or more) with both hands."
+
+# [[session.repretoire]]
+# name = "Princess Augusta (Scottish)"
+
+# [[session.repretoire]]
+# name = "Blind John the Harper (Welsh)"
+
+# [[session.repretoire]]
+# name = "Planxty Irwin (Irish, O’Carolan)"
+
+# [[session.repretoire]]
+# name = "Nora Criona (Irish Jig)"
+
+# ===============================
+
+# [[session]]
+# order = 2
+# name = "Advanced"
+# when = "Tuesdays, 6:15pm - 7:15pm"
+# description = "For students with more extensive experience, this class will basically be a continuation of the Winter Term class, but open to all advanced players."
+
+# [[session.repretoire]]
+# name = "Planxty Crowell"
+
+# [[session.repretoire]]
+# name = "Carolan's Reciept"
+
+# ===============================
+
+# [[session]]
+# order = 3
+# name = "Beginner II"
+# when = "Tuesdays, 7:30pm - 9:00pm"
+# description = "For students who are either continuing from the last Winter term and want some review plus more; or those who are starting for the first time but have had a good intro from me – we’ll warm up with fingering exercises, scales and arpeggios, review the first two Welsh harp tunes, (which gives you all the fundamentals of harp playing) and add more to your repertoire."
+
+# [[session.repretoire]]
+# name = "More Welsh Tunes"
+
+# [[session.repretoire]]
+# name = "Song of the Chanter"
+
+# [[session.repretoire]]
+# name = "Brian Boru's March"
+
+# [[session.repretoire]]
+# name = "Ye Wild Morris Dance"
