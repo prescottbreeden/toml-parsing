@@ -12,9 +12,10 @@ const GREEN = `${FgGreen}%s${Reset}`
 const RED = `${FgRed}%s${Reset}`
 
 // handle file pathing options
-const CONFIG_FILE = path.join(__dirname, '../parse-config.toml')
-const INPUT_DIR = (str) => path.join(__dirname, `../${str}/`)
-const OUTPUT_DIR = (str) => path.join(__dirname, `../${str}/`)
+const ROOT_DIR = process.cwd()
+const CONFIG_FILE = path.join(ROOT_DIR, '/parse-config.toml')
+const INPUT_DIR = (str) => path.join(ROOT_DIR, `/${str}/`)
+const OUTPUT_DIR = (str) => path.join(ROOT_DIR, `/${str}/`)
 
 const readDir = ({ inputFolder, outputFolder }) =>
   R.tryCatch(
