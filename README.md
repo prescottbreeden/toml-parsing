@@ -56,3 +56,4 @@ Current laundry debt:
 - ignore non-toml files in a directory
 - convert to typescript
 - add tests
+- remove boiler-plate folders and files used for local testing
